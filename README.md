@@ -6,3 +6,5 @@ This data is free to use and if you want more information please contact s_alqah
 --raw data is 93 SE artilces (titles + abstract) text format
 
 --r scripts include lda-script.R, cox-test.R and preplexity.R
+
+-- SE meta-data and classifications include all the SE artciels analyzed in the study
