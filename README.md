@@ -1,4 +1,4 @@
-# JSS-data
+# Survey dataset
 A Study on the Use of Vulnerability Databases in Software Engineering - dataset
 
 This data is free to use and if you want more information please contact s_alqaht@encs.concorddia.ca
