@@ -3,8 +3,8 @@ A Study on the Use of Vulnerability Databases in Software Engineering - dataset
 
 This data is free to use and if you want more information please contact s_alqaht@encs.concorddia.ca
 
---raw data is 93 SE artilces (titles + abstract) text format
+1. raw data is 93 SE artilces (titles + abstract) text format
 
---r scripts include lda-script.R, cox-test.R and preplexity.R
+2. r scripts include lda-script.R, cox-test.R and preplexity.R
 
--- SE meta-data and classifications include all the SE artciels analyzed in the study
+3. SE meta-data and classifications include all the SE artciels analyzed in the study
